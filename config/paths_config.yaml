@@ -1,0 +1,7 @@
+paths:
+  - path: "/home/inexbot/robot/config/"
+    description: "Description of path1."
+  - path: "/home/inexbot/robot/craft/*/"
+    description: "Description of path2."
+  - path: "/home/inexbot/robot/variant/"
+    description: "Description of path3."

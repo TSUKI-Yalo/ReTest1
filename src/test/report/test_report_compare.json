@@ -1,0 +1,17 @@
+{
+    "errors": [
+        "键 R2spray 对应的内容不一致",
+        "键 R3spray 对应的内容不一致",
+        "键 R4spray 对应的内容不一致",
+        "键 positionExt_R1 对应的内容不一致",
+        "Redis 中缺少键: positionExt_R2",
+        "Redis 中缺少键: positionExt_R3",
+        "Redis 中缺少键: positionExt_R4",
+        "键 position_R1 对应的内容不一致",
+        "Redis 中缺少键: position_R2",
+        "Redis 中缺少键: position_R3",
+        "Redis 中缺少键: position_R4",
+        "键 stringVariant 对应的内容不一致",
+        "键 variant 对应的内容不一致"
+    ]
+}

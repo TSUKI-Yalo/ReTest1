@@ -1,0 +1,5 @@
+redis_host: "192.168.10.200"
+redis_username: "default"
+redis_password: "inexbot_rw_2024"
+redis_port: 6379
+redis_db: 0
